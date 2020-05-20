@@ -1,0 +1,10 @@
+No.	Food	Price
+1	Vegetarain Bee Hoon Set	$2.80
+2	Vegetarian Rice Set	$2.80
+3	White Rice	$0.50
+4	Brown Rice	$0.80
+5	Bee Hoon	$1.00
+6	Fried Rice	$1.00
+7	Vegetable	$0.70
+8	Vegetarian Meat	$1.00
+9	Hor Fun/Crispy Noodle	$3.00

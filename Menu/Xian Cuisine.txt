@@ -1,0 +1,21 @@
+No	Food	Price
+1	Spicy n Sour Noodle (Saozi Mian)	$4.20
+2	Zha Jiang Noodle	$4.20
+3	Hui Ma Shi	$4.20
+4	Fried Egg w/ Tomato Noodle	$4.20
+5	Hot & Dry Noodle	$4.20
+6	Chinese Hamburger	$2.80
+7	Sesame Liang Pi	$3.20
+8	Steamed Vegetables	$2.20
+9	Jian Bao(5 pcs)	$2.20
+10	Pancake w/ Green Onion	$1.20
+11	Dumpling (Dry/Sour Soup) Beef	$5.20
+12	Dumpling (Dry/Sour Soup) Pork	$4.20
+13	Wonton Soup	$3.20
+14	Hula Soup/Camellia	$2.20
+15	Beancurd	$1.50
+16	Biang Biang Noodle	$3.20
+1	Scrambled Egg w/ Tomato	$1.20
+2	Rou Saozi	$1.20
+3	Su Saozi	$1.20
+4	Zha Jiang	$1.20

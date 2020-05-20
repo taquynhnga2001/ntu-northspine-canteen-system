@@ -1,0 +1,14 @@
+No	Food	Price
+1	Pho Beef Kway Teow Soup	$5.00
+2	Spicy Beef Noodle	$4.80
+3	Grilled Meat Noodle	$4.80
+4	Chicken Kway Teow Soup	$4.80
+5	Grilled Chicken Rice	$4.80
+6	Grilled Pork Rice	$4.80
+7	Meat Roll	$4.80
+Additional Ingredients
+1	Beef	$2.00
+2	Chicken	$1.00
+3	Meat Roll	$1.50
+4	Noodle	$1.50
+5	Egg/Veg/Rice	$0.60

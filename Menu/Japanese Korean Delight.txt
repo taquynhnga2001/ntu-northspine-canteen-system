@@ -1,0 +1,21 @@
+No	Food	Price
+1	Saba + Chicken Cutlet Bento	$5.20
+2	Fish Fillet + Chicken Bento	$5.20
+3	Chicken Cutlet Ramen	$4.80
+4	Chicken Udon	$4.80
+5	Oyako Don	$4.80
+6	Salmon Don	$4.80
+7	Pork/Chicken Cutlet Curry Rice	$4.20
+8	Hotplate Saba Set	$5.50
+9	Hotplate Pork Set	$5.80
+10	Hotplate Chicken Set	$5.20
+11	Hotplate Beef Set	$6.20
+12	Hotplate Chicken + Beef Set	$5.80
+13	Hotplate Saba + Chicken Set	$5.20
+14	Bimbibap	$4.80
+15	Chicken/Pork Rice Set	$4.20
+16	Kimchi Fried Rice	$4.00
+17	Chicken Kimchi Soup	$4.20
+18	Seafood Kimchi Soup	$4.80
+19	Kimchi Ramen	$3.80
+20	Kimchi Chicken Ramen	$4.20

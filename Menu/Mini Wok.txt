@@ -1,0 +1,27 @@
+No.	Food	Price
+1	Sambal Chicken Fried Rice	$3.80
+2	Salted Fish Fried Rice	$3.80
+3	Fried Rice with Prawn	$3.80
+4	Fried Rice with Fillet	$3.80
+5	Chicken Fried Rice	$3.80
+6	Ginger Onion Pork Rice	$4.50
+7	Kung Bao Chicken Rice	$4.20
+8	Black Pepper Chicken Rice	$4.20
+9	Ginger Onion Chicken Rice	$4.20
+10	Pan Fried Chicken Rice	$4.20
+11	Ginger Onion Fish Fillet Rice	$4.20
+12	Sweet Sour Fish Fillet Rice	$4.20
+13	Sambal Fish Fillet Rice	$4.20
+14	Mixed Veg Toufu	$4.00
+15	Fried Beef Hor Fun	$4.80
+16	Seafood Ee Mee	$3.80
+17	Seafood Hor Fun	$3.80
+18	Beef Fried Rice	$4.80
+19	Seafood Bee Hoon	$3.80
+20	Fried Seafood Hor Fun	$3.80
+21	Sambal Long Bean with Pork	$4.50
+22	Ginger & Onion Beef Rice	$4.80
+23	Seafood Hokkien Mee	$3.80
+24	Beef Hor Fun	$4.80
+25	Black Pepper Pork Rice	$4.50
+26	Black Pepper Beef Rice	$4.80

@@ -1,0 +1,9 @@
+No	Food	Price
+1	Claypot Chicken with Rice	$4.80
+2	Claypot Pork Ribs with Rice	$5.80
+3	Claypot Beef with Rice	$6.80
+4	Claypot Seafood with Rice	$6.80
+Add-ons
+1	Noodle	$0.50
+2	Vegetable	$1.20
+3	Meat	$1.20

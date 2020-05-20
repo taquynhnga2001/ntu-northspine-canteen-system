@@ -1,0 +1,21 @@
+No.	Food	Price
+1	Ban Mian	$3.00
+2	U Mian	$3.00
+3	Mee Sua	$3.00
+4	Yi Mian	$3.00
+5	Thin Bee Hoon	$3.00
+6	Sichuan Veg Ban Mian	$3.50
+7	Dumpling Ban Mian	$3.50
+8	Tom Yam Ban Mian	$3.80
+9	Spicy & Sour Noodle	$3.50
+10	Zha Jiang Mian	$3.50
+11	Sliced Fish Ban Mian	$3.80
+12	Sliced Fish Bee Hoon	$3.80
+13	Fried Fish Bee Hoon	$3.80
+14	Fried Fish Soup	$3.80
+15	Sliced Fish Soup	$3.80
+16	Seafood Soup	$3.80
+17	Fish Porridge	$3.80
+18	Fried Dumpling (6pcs)	$3.30
+19	Steamed Dumpling (6pcs)	$3.30
+20	Rice	$0.50

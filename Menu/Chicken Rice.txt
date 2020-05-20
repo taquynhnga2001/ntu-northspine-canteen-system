@@ -1,0 +1,16 @@
+No	Food	Price
+1	Steamed/Roasted Chicken Rice Set	$4.50
+2	Steamed Chicken Rice	$3.00
+3	Roasted Chicken Rice	$3.00
+4	Lemon Chicken Rice	$3.00
+5	Curry Chicken Noodle	$3.00
+6	Chicken Hor Fun	$3.00
+7	Roasted Chicken Noodle	$3.00
+8	Chicken Drumstick Rice	$3.50
+9	Soya Sauce Veg	$2.00
+10	Thai Style Beancurd	$2.00
+11	Bean Sprout	$2.00
+12	Chicken Wing	$1.60
+13	Chicken Organ	$0.60
+14	Braised Egg	$0.60
+15	Dry Beancurd	$0.60	

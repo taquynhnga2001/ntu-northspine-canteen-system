@@ -1,0 +1,35 @@
+No.	Food	Price
+Chicken
+1	Chargrill Chicken Set	$4.80
+2	Black Pepper Chicken Set	$4.80
+3	Fried Bread Crumbs Chicken Set	$4.80
+4	Jumbo Chicken Sausage Set	$4.80
+Fish
+1	Grill Fish w/ Italian Herb set	$4.80
+2	Fried Bread Crumbs Fish Set	$4.80
+3	Grill Black Pepper Fish Set	$4.80
+4	Grill Salmon Fillet Set	$4.80
+Meat
+1	Grill Pork Chop w/ Black Pepper Set	$5.80
+2	Grill Sirloin Steak Set(Black Pepper)	$6.80
+3	Fried Bread Crumbs Pork Set	$5.80
+4	Rib Eye Steak Set	$7.80
+Pasta
+1	Chicken Spaghetti w/ Cream Sauce	$4.20
+2	Chicken Bolognese	$4.20
+3	Karaage Spaghetti w/ Tomato Sauce	$4.20
+4	Chicken Aglio-Olio Spicy	$4.20
+Side Order
+1	Garlic Bread	$1.50
+2	Mashed Potato	$1.20
+3	Spaghetti	$2.00
+4	Aglio-Olio(plain)	$2.00
+5	Chef Salad	$2.20
+6	Potato Salad	$2.20
+7	Scramble Egg w/ Bacon	$2.20
+8	Crinkle Cut French Fries	$2.20
+9	Jacket Potato w/ Bacon	$2.20
+10	Cheese Fries	$3.20
+Combo Set
+1	Jacket Potato, Sausage, Chicken Chop	$6.80
+2	Jacket Potato, Sausage, Sirloin Steak	$8.80

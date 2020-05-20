@@ -1,0 +1,12 @@
+{
+ "Mini Wok":      [7, "1000","2100"],
+ "Chicken Rice":  [2, "1030", "2100"],
+ "Hand-made Noodles":   [6, "1000", "2100"],
+ "Malay BBQ":     [2, "0930", "2100"],
+ "Vegetarian Food":     [3, "0930", "2100"],
+ "Xian Cuisine":  [4, "0930", "2100"],
+ "Japanese Korean Delight":   [5, "1000", "2100"],
+ "BBQ Delight":   [4, "1000", "2100"],
+ "Vietnamese Cuisine":  [4, "0930", "2100"],
+ "Italian Pasta": [5, "1030", "2100"]
+}

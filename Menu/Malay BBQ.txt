@@ -1,0 +1,21 @@
+No.	Food	Price
+1	BBQ Chicken	$4.00
+2	Fish Fillet	$4.00
+3	Combo Meal (Chicken & Fish)	$5.20
+4	Ayam Penyet	$4.00
+5	Ayam Penyet Fried Rice	$4.20
+6	Fried Chicken White Rice	$3.80
+7	Mee Rebus	$2.80
+8	Mee Sian	$2.80
+9	Mee Soto	$2.80
+10	Nasi Lemak	$3.00
+11	Lontong	$2.80
+12	Chicken	$2.80
+13	Beef Rendang	$2.50
+14	Assam Fish	$2.00
+15	Sambal Goreng	$1.00
+16	Vegetable	$0.80
+17	Fishball (3pcs)	$1.20
+18	Ngoh Hiang	$1.20
+19	Fishcake	$0.80
+20	Plain Rice	$0.50
